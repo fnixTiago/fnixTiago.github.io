@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rimac/static/css/main.ee62922d.css",
+    "main.js": "/rimac/static/js/main.2aaeb2c1.js",
+    "static/js/453.2ba81b81.chunk.js": "/rimac/static/js/453.2ba81b81.chunk.js",
+    "static/media/imageHome.jpg": "/rimac/static/media/imageHome.8075d58af1633629a1a8.jpg",
+    "static/media/iconAddUser.svg": "/rimac/static/media/iconAddUser.554beafb02babf77fecf000a6846c717.svg",
+    "static/media/Logo-white.svg": "/rimac/static/media/Logo-white.a47e826f9b1258ed7406682d19d0a2e9.svg",
+    "static/media/logo-rimac.svg": "/rimac/static/media/logo-rimac.27d9342f72c40fdb43af716f291d9fe6.svg",
+    "static/media/iconProtection.svg": "/rimac/static/media/iconProtection.0e23ab16e35d053e6b2e4ece7b4664f8.svg",
+    "static/media/iconHome.svg": "/rimac/static/media/iconHome.955823657d0fba8d55714bd2de442191.svg",
+    "static/media/iconHospital.svg": "/rimac/static/media/iconHospital.0b999fed68690d4e34ffc5bce601e78d.svg",
+    "index.html": "/rimac/index.html",
+    "static/media/iconFamily.svg": "/rimac/static/media/iconFamily.ea7ae3eb80537dfcf115ee868f2d56ea.svg",
+    "main.ee62922d.css.map": "/rimac/static/css/main.ee62922d.css.map",
+    "main.2aaeb2c1.js.map": "/rimac/static/js/main.2aaeb2c1.js.map",
+    "453.2ba81b81.chunk.js.map": "/rimac/static/js/453.2ba81b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee62922d.css",
+    "static/js/main.2aaeb2c1.js"
+  ]
+}
